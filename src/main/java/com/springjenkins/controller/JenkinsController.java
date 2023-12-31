@@ -11,7 +11,7 @@ public class JenkinsController {
 	@GetMapping("/getMessages")
 	public String getMessage()
 	{
-		return "Hi I am From Jenkins";
+		return "Hi I am From Jenkins Deploy Prjoect";
 	}
 
 }
