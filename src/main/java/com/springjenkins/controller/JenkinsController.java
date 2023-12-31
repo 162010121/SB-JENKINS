@@ -10,8 +10,8 @@ public class JenkinsController {
 	public String getMessage()
 	{
 
-		return "Message From Spring-Jenkins ";
 
+		return "Message From Spring-Jenkins ";
 	}
 
 }
