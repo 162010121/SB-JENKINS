@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class JenkinsController {
 	
 	@GetMapping("/getMessages From Jenkins")
-	public String getMessage()
+	public String get()
 	{
 
 
